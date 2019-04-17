@@ -3,6 +3,17 @@
 
 Source: ftp://ftp.ncbi.nlm.nih.gov/blast/db/ & https://www.ncbi.nlm.nih.gov/books/NBK62345/ 
 
+
+Result of `update_blastdb.pl --blastdb_version 5 --showall`
+```
+nr_v5
+nt_v5
+pdb_v5
+refseq_rna_v5
+swissprot_v5
+taxdb
+```
+
 Result of `update_blastdb.pl --passive --showall`
 
 ```

@@ -1,7 +1,7 @@
 **Date Created**: April 17, 2019 <br>
 **Updated** by @jananiravi
 
-Sources: <br>
+**Sources**: <br>
 [ftp://ftp.ncbi.nlm.nih.gov/blast/db/](ftp://ftp.ncbi.nlm.nih.gov/blast/db/) <br>
 https://www.ncbi.nlm.nih.gov/books/NBK62345/ 
 

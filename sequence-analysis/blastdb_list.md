@@ -1,7 +1,9 @@
 **Date Created**: April 17, 2019 <br>
 **Updated** by @jananiravi
 
-Source: ftp://ftp.ncbi.nlm.nih.gov/blast/db/ & https://www.ncbi.nlm.nih.gov/books/NBK62345/ 
+Sources: <br>
+[ftp://ftp.ncbi.nlm.nih.gov/blast/db/](ftp://ftp.ncbi.nlm.nih.gov/blast/db/) <br>
+https://www.ncbi.nlm.nih.gov/books/NBK62345/ 
 
 
 Result of `update_blastdb.pl --blastdb_version 5 --showall`

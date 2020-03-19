@@ -1,20 +1,17 @@
 # Computational Biology & Bioinformatics Resources
 _With programming resources on R, Python, Unix, Git, and Stats._
-
-**Other non-compbio gists [here](https://gist.github.com/jananiravi)!**
+_Other non-compbio gists will be [here](https://gist.github.com/jananiravi)!_
 
 ## Contributors
 [Janani Ravi](https://github.com/jananiravi) & [Arjun Krishnan](https://github.com/krishnanlab)
 
-# Coding, Statistics, Computing
-
-> NOTE: When the recommendation is an online course, I'm recommending the *FREE* version.
+> NOTE: When the recommendation is an online course, we recommend the *FREE* version.
 
 * [Cheatsheets](#cheatsheets)
 * [Unix](#unix)
 * [R](#r)
 * [Python](#python)
-* [Probability & Statistics](#probability-and-statisitcs)
+* [Probability & Statistics](#probability-and-statistics)
 * [Biology](#biology)
 
 ## Cheatsheets

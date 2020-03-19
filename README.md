@@ -1,12 +1,14 @@
 # Computational Biology & Bioinformatics Resources
 _With programming resources on R, Python, Unix, Git, and Stats._
 _Other non-compbio gists will be [here](https://gist.github.com/jananiravi)!_
+> NOTE: When the recommendation is an online course, we recommend the *FREE* version.
 
 ## Contributors
 [Janani Ravi](https://github.com/jananiravi) & [Arjun Krishnan](https://github.com/krishnanlab)
 
-> NOTE: When the recommendation is an online course, we recommend the *FREE* version.
+> NOTE: _You can request gist on a particular topic by adding an [issue](https://github.com/compbio-gists/issues) outlining the details of the problem. Keywords of interest are in the repo description above._
 
+## Table of Contents
 * [Cheatsheets](#cheatsheets)
 * [Unix](#unix)
 * [R](#r)

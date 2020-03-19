@@ -34,8 +34,7 @@ https://github.com/jananiravi/cheatsheets
 ## R
 ### General introduction to R
 * [Swirl](http://swirlstats.com) ('R Programming' & 'Data Analysis’ lessons)
-* [Programming with R](http://swcarpentry.github.io/r-novice-inflammation/) [SC]
-* [Learn R Programming](https://www.youtube.com/playlist?list=PLjgj6kdf_snYBkIsWQYcYtUZiDpam7ygg) [DC]
+* [Programming with R](http://swcarpentry.github.io/r-novice-inflammation/)
 * [RStudio Education](https://education.rstudio.com/)
 * [Finding Your Way To R](https://education.rstudio.com/learn/) | [Beginners](https://education.rstudio.com/learn/beginner/)
 * [RStudio Essentials](https://resources.rstudio.com/)
@@ -45,19 +44,14 @@ https://github.com/jananiravi/cheatsheets
 A few useful resources to share along with the tidyverse/ggplot
 1. To pick the right kind of visualization, given your data type:
 https://www.data-to-viz.com/ 
-2. Graph galleries w/ sample codes for R/python-newbies:
-- [R Graph Gallery](https://www.r-graph-gallery.com/)
-- [Python Graph Gallery](https://python-graph-gallery.com/)
-3. [Gpplot extension gallery](https://www.ggplot2-exts.org/gallery/) | https://github.com/ggplot2-exts/gallery 
+2. Graph galleries w/ sample codes for R/python-newbies: <br>
+[R Graph Gallery](https://www.r-graph-gallery.com/) | [Python Graph Gallery](https://python-graph-gallery.com/)
+3. [ggplot extension gallery](https://www.ggplot2-exts.org/gallery/) | https://github.com/ggplot2-exts/gallery 
 
 ### R for data science and machine learning
 * [Data Science Course in a Box](https://datasciencebox.org/) - Introductory data science course covering data acquisition and wrangling, exploratory data analysis, data visualization, inference, modeling, and effective communication of results (with tidyverse, R Markdown, and version control). The course also introduces interactive visualization and reporting, text analysis, and Bayesian inference.
 * [RStudio | The Essentials of Data Science](https://resources.rstudio.com/the-essentials-of-data-science)
-* [R for Reproducible Scientific Analysis](http://swcarpentry.github.io/r-novice-gapminder/) [SC]
-* [Learn how to import & manipulate data](https://www.youtube.com/playlist?list=PLjgj6kdf_snbifJGg9IXzsMzDC3x52uCh) [DC]
-* [Introduction to Statistics in R](https://www.youtube.com/playlist?list=PLjgj6kdf_snZv7dk0ktMm7Ch9RFajwKHb) [DC]
-* [R Tutorials for Data Science](https://www.youtube.com/playlist?list=PLjgj6kdf_snYqqoq_JM6vjIN8tPEoTAUD) [DC]
-* [R Data Visualization and Markdown](https://www.youtube.com/playlist?list=PLjgj6kdf_snY7jBoW4TTySVSZKO4xaaax) [DC]
+* [R for Reproducible Scientific Analysis](http://swcarpentry.github.io/r-novice-gapminder/)
 
 ### eBooks for R
 * R for Data Science | R4DS | Hadley Wickham, Garrett Grolemund |

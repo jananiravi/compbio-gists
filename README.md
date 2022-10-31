@@ -45,7 +45,7 @@ A few useful resources to share along with the tidyverse/ggplot
 https://www.data-to-viz.com/ 
 2. Graph galleries w/ sample codes for R/python-newbies: <br>
 [R Graph Gallery](https://www.r-graph-gallery.com/) | [Python Graph Gallery](https://python-graph-gallery.com/)
-3. [ggplot extension gallery](https://www.ggplot2-exts.org/gallery/) | https://github.com/ggplot2-exts/gallery 
+3. [ggplot extension gallery](https://exts.ggplot2.tidyverse.org/gallery/) | https://github.com/ggplot2-exts/gallery 
 
 ### R for data science and machine learning
 * [Data Science Course in a Box](https://datasciencebox.org/) - Introductory data science course covering data acquisition and wrangling, exploratory data analysis, data visualization, inference, modeling, and effective communication of results (with tidyverse, R Markdown, and version control). The course also introduces interactive visualization and reporting, text analysis, and Bayesian inference.
